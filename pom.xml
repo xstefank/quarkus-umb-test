@@ -39,8 +39,8 @@
       <artifactId>quarkus-resteasy</artifactId>
     </dependency>
     <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-artemis-jms</artifactId>
+      <groupId>org.amqphub.quarkus</groupId>
+      <artifactId>quarkus-qpid-jms</artifactId>
     </dependency>
     <dependency>
       <groupId>io.quarkus</groupId>
